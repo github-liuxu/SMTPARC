@@ -1,0 +1,2 @@
+[Crasheye initWithAppKey:@"affcf040"];
+http://www.testplus.cn/integrated?appkey=affcf040&platform=1

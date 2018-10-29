@@ -59,7 +59,9 @@ SMTP 的全称是“Simple Mail Transfer Protocol”，即简单邮件传输协�
 （h）结束此次发送，用QUIT命令退出
 
 **以下是我的测试**
+不知道为何图片显示不全建议看https://blog.csdn.net/liuxuldx/article/details/83480339
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2018102823335568.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xpdXh1bGR4,size_27,color_FFFFFF,t_70)
+
 ## 关键代码分析
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20181028234348163.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xpdXh1bGR4,size_27,color_FFFFFF,t_70)
 通过socket创建输入流和输出流
